@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+body {
+	background-color: #0facaa;
+	color: black;
+  padding: 10px 30px 50px 80px;
+	font-size: 28px;
+	font-family: 'Indie Flower', cursive;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 10px;
+	border: 2px #666 solid;
+	text-align: center;
+	width: 20%;
+}
+
+#free, .pickedBG {
+	background-color: #f66;
+}
+
+.winningBG {
+/* 	lets set it to flash or blink or something */
+}
+
+
+/* https://designshack.net/articles/typography/10-more-great-google-font-combinations-you-can-copy/ */
